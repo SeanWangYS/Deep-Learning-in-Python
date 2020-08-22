@@ -5,3 +5,8 @@ I implemented various kinds of algorithms including MLP, Autoencoder ,RNN, GRU, 
 The turorials which I studied is created by Lazy programmer team.
 https://deeplearningcourses.com/#page-top
 
+# Algorithm I implemented in this project 
+## Neural Network (ann_class, ann_calss2)  
+* Logistic Regression  
+* Multilayer perceptron, MLP  
+* Deep Neural Network
