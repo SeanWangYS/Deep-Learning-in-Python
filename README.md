@@ -25,7 +25,7 @@ https://deeplearningcourses.com/#page-top
 ## Nature Language Processing (nlp_class, nlp_class2)  
 * LSA (latten semantic analysis)
 *  Word Vector
-** Word-frequency vector 
+  * Word-frequency vector 
 * TF-IDF   
 * 
 
