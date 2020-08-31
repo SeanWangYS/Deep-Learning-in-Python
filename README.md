@@ -17,19 +17,19 @@ https://deeplearningcourses.com/#page-top
 * Batch Normalization
 ## Autoencoder (unsupervised_class2)
 * autoencoder with Neural Network  
-* greed Layer  
+* greed layer  
 ## Recurrent Neural Network (rnn_class)
 * simple RNN  
-* Word to Vector (word2vec)
+* word to vector (word2vec)
 * GRU  
 * LSTM  
 ## Nature Language Processing (nlp_class, nlp_class2)  
 * LSA (latten semantic analysis)
 * TF-IDF and visualization 
-* Word analogy using word vector package (Word2Vec and Glove)  
+* word analogy using word vector package (Word2Vec and Glove)  
 * bigram model
 * matrix factorization (for recommendation system)
-* Glove algorithm training 
+* glove algorithm training 
 * part-of-speech tagging
 
 
