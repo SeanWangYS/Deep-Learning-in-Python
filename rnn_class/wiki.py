@@ -16,7 +16,7 @@ from brown import get_sentences_with_word2idx_limit_vocab
 這邊我只用拿 Brown Corpus 來玩
 
 這篇接續 srn_language.py
-忘記目的是做什麼了，好像只是訓練word vector，訓練完做比較
+目的是訓練word vector，訓練完做比較
 
 
 學習情境: 情境2+3
@@ -196,7 +196,7 @@ if __name__ == '__main__':
     w2i = './rnn_class/lstm_wikipedia_word2idx2.json'
     train_wikipedia(we, w2i, RecurrentUnit=LSTM)
 
-    # find_analogies('king', 'man', 'woman', we, w2i)
-    # find_analogies('france', 'paris', 'london', we, w2i)
-    # find_analogies('france', 'paris', 'rome', we, w2i)
-    # find_analogies('paris', 'france', 'italy', we, w2i)
+    find_analogies('king', 'man', 'woman', we, w2i)
+    find_analogies('france', 'paris', 'london', we, w2i)
+    find_analogies('france', 'paris', 'rome', we, w2i)
+    find_analogies('paris', 'france', 'italy', we, w2i)
