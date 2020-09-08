@@ -56,7 +56,7 @@ def derivatieve_b1(Z, W2, T, Y):
     return dZ.sum(axis=0)
 
 
-learning_rate = 10e-6  ## ?? 這邊我用10-4 結果就會爆掉，而且就算cost值爆炸(超過float64可乘載的數值)也只會得出cost = nan ，程式不會當掉
+learning_rate = 10e-6  ## 這邊我用10-4 結果就會爆掉，就算cost值爆炸(超過float64可乘載的數值)也只會得出cost = nan ，程式不會當掉
 costs =[]
 for epoch in range(200):
     pY, Z = forward(X, W1, b1, W2, b2)
