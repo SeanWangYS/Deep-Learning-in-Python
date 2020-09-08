@@ -5,31 +5,35 @@ I got completed concepts about Deep Learning, and also implemented various kinds
 The turorials which I studied is created by Lazy programmer team.
 https://deeplearningcourses.com/#page-top
 
-# Concepts and algorithm I implemented in this project 
-## Neural Network (ann_class, ann_calss2)  
-* Logistic Regression  
+# Concepts and algorithm I implemented in this project
+(hit the `LINK` below to access the code I wrote)
+## Neural Network
+* Logistic Regression [:octocat:](https://github.com/SeanWangYS/Deep-Learning-in-Python/blob/master/ann_class/regression.py)
 * Multilayer perceptron, MLP  
-* Deep Neural Network  
+* Deep Neural Network(multiple hidden layers NN)  
 * Momentum  
 * RMSprop  
 * Adam  
 * Dropout  
 * Batch Normalization
-## Autoencoder (unsupervised_class2)
-* autoencoder with Neural Network  
-* greed layer  
+## Unsupervised Neural Network
+* Autoencoder with Neural Network  
+* Greed Layer  
 ## Recurrent Neural Network (rnn_class)
-* simple RNN  
-* word to vector (word2vec)
+* Simple RNN  
+* Word to Vector (word2vec)
 * GRU  
 * LSTM  
 ## Nature Language Processing (nlp_class, nlp_class2)  
 * LSA (latten semantic analysis)
 * TF-IDF and visualization 
 * word analogy using word vector package (Word2Vec and Glove)  
-* bigram model
+* bigram model(using numpy indexing skill)
 * matrix factorization (for recommendation system)
 * glove algorithm training 
 * part-of-speech tagging
+<br>
 
+# Some Interisting Examples
+## 
 
