@@ -13,7 +13,7 @@ class HiddenLayerBatchNorm(object):
     def __init__(self, M1, M2, f):
         self.M1 = M1
         self.M2 = M2
-        self.f = f      # 這裡會給一個relu函式，好奇妙的寫法，為何可以這樣??
+        self.f = f      
         
         W = init_weight(M1, M2).astype(np.float32)
         gamma = np.ones(M2).astype(np.float32)
@@ -30,7 +30,7 @@ class HiddenLayerBatchNorm(object):
     def forward(self, X, is_training, decay=0.9):
         activation = tf.matmul(X, self.W)
         if is_training:
-            batch_main, batch_var = tf.nn.moments(activation, [0])      # ?? 這邊為什麼參數是[0]，activation 應該是 2D array阿，在tf的世界，怎麼做測試阿??
+            batch_main, batch_var = tf.nn.moments(activation, [0])      
             update_running_mean = tf.assign(        # 用這個方式告訴tf, 這個Variable的更新，不要用gradient descent, 用自己定義的方式
                 self.running_mean, 
                 self.running_mean * decay + batch_main * (1 - decay)
