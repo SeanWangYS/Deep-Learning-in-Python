@@ -11,19 +11,19 @@ hit the :lollipop: below to access the code I wrote
 ## Neural Network
 * Logistic Regression [:lollipop:](https://github.com/SeanWangYS/Deep-Learning-in-Python/blob/master/ann_class/regression.py) 
 * Deep Neural Network(multiple hidden layers NN) [:lollipop:](https://github.com/SeanWangYS/Deep-Learning-in-Python/blob/master/ann_class2/tensorflow_ann_bySean.py)
-* Momentum  
-* RMSprop  
-* Adam  
-* Dropout  
-* Batch Normalization
+* Momentum  [:lollipop:](https://github.com/SeanWangYS/Deep-Learning-in-Python/blob/master/ann_class2/momentum.py)
+* RMSprop  [:lollipop:](https://github.com/SeanWangYS/Deep-Learning-in-Python/blob/master/ann_class2/rmsprop.py)
+* Adam  [:lollipop:](https://github.com/SeanWangYS/Deep-Learning-in-Python/blob/master/ann_class2/adam.py)
+* Dropout  [:lollipop:](https://github.com/SeanWangYS/Deep-Learning-in-Python/blob/master/ann_class2/dropout_tensorflow.py)
+* Batch Normalization  [:lollipop:](https://github.com/SeanWangYS/Deep-Learning-in-Python/blob/master/ann_class2/batch_norm_tf.py)
 ## Unsupervised Neural Network
-* Autoencoder with Neural Network  
+* Autoencoder with Neural Network  [:lollipop:](https://github.com/SeanWangYS/Deep-Learning-in-Python/blob/master/unsupervised_class2/autoencoder_tf.py)
 * Greed Layer  
 ## Recurrent Neural Network (rnn_class)
-* Simple RNN  
-* Word to Vector (word2vec)
-* GRU  
-* LSTM  
+* RNN for poetry poetry generation  [:lollipop:](https://github.com/SeanWangYS/Deep-Learning-in-Python/blob/master/rnn_class/srn_language.py)
+* Word Vector training  [:lollipop:](https://github.com/SeanWangYS/Deep-Learning-in-Python/blob/master/rnn_class/wiki.py)
+* GRU  [:lollipop:](https://github.com/SeanWangYS/Deep-Learning-in-Python/blob/master/rnn_class/gru.py)
+* LSTM  [:lollipop:](https://github.com/SeanWangYS/Deep-Learning-in-Python/blob/master/rnn_class/lstm.py)
 ## Nature Language Processing (nlp_class, nlp_class2)  
 * LSA (latten semantic analysis)
 * TF-IDF and visualization 
