@@ -19,12 +19,12 @@ hit the :lollipop: below to access the code I wrote
 ## Unsupervised Neural Network
 * Autoencoder with Neural Network  [:lollipop:](https://github.com/SeanWangYS/Deep-Learning-in-Python/blob/master/unsupervised_class2/autoencoder_tf.py)
 * Greed Layer  
-## Recurrent Neural Network (rnn_class)
+## Recurrent Neural Network
 * RNN for poetry poetry generation  [:lollipop:](https://github.com/SeanWangYS/Deep-Learning-in-Python/blob/master/rnn_class/srn_language.py)
 * Word Vector training  [:lollipop:](https://github.com/SeanWangYS/Deep-Learning-in-Python/blob/master/rnn_class/wiki.py)
 * GRU  [:lollipop:](https://github.com/SeanWangYS/Deep-Learning-in-Python/blob/master/rnn_class/gru.py)
 * LSTM  [:lollipop:](https://github.com/SeanWangYS/Deep-Learning-in-Python/blob/master/rnn_class/lstm.py)
-## Nature Language Processing (nlp_class, nlp_class2)  
+## Nature Language Processing
 * LSA (latten semantic analysis)
 * TF-IDF and visualization 
 * word analogy using word vector package (Word2Vec and Glove)  
