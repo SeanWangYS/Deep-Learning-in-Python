@@ -4,7 +4,7 @@ I got completed concepts about Deep Learning, and also implemented various kinds
 The frameworks I use in this project include tensorflow and theano.<br>
 
 The turorials which I studied is created by Lazy programmer team.
-https://deeplearningcourses.com/#page-top
+- [reference](https://deeplearningcourses.com/#page-top)
 
 # Concepts and algorithm I implemented in this project
 hit the :lollipop: below to access the code I wrote
