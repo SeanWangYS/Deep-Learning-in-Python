@@ -11,28 +11,27 @@ hit the :lollipop: below to access the code I wrote
 ## Neural Network
 * [Logistic Regression](https://github.com/SeanWangYS/Deep-Learning-in-Python/blob/master/ann_class/regression.py) 
 * [Deep Neural Network(multiple hidden layers NN)](https://github.com/SeanWangYS/Deep-Learning-in-Python/blob/master/ann_class2/tensorflow_ann_bySean.py)
-* Momentum  [:lollipop:](https://github.com/SeanWangYS/Deep-Learning-in-Python/blob/master/ann_class2/momentum.py)
-* RMSprop  [:lollipop:](https://github.com/SeanWangYS/Deep-Learning-in-Python/blob/master/ann_class2/rmsprop.py)
-* Adam  [:lollipop:](https://github.com/SeanWangYS/Deep-Learning-in-Python/blob/master/ann_class2/adam.py)
-* Dropout  [:lollipop:](https://github.com/SeanWangYS/Deep-Learning-in-Python/blob/master/ann_class2/dropout_tensorflow.py)
-* Batch Normalization  [:lollipop:](https://github.com/SeanWangYS/Deep-Learning-in-Python/blob/master/ann_class2/batch_norm_tf.py)
+* [Momentum](https://github.com/SeanWangYS/Deep-Learning-in-Python/blob/master/ann_class2/momentum.py)
+* [RMSprop](https://github.com/SeanWangYS/Deep-Learning-in-Python/blob/master/ann_class2/rmsprop.py)
+* [Adam](https://github.com/SeanWangYS/Deep-Learning-in-Python/blob/master/ann_class2/adam.py)
+* [Dropout](https://github.com/SeanWangYS/Deep-Learning-in-Python/blob/master/ann_class2/dropout_tensorflow.py)
+* [Batch Normalization](https://github.com/SeanWangYS/Deep-Learning-in-Python/blob/master/ann_class2/batch_norm_tf.py)
 ## Unsupervised Neural Network
-* Autoencoder with Neural Network  [:lollipop:](https://github.com/SeanWangYS/Deep-Learning-in-Python/blob/master/unsupervised_class2/autoencoder_tf.py)
+* [Autoencoder with Neural Network](https://github.com/SeanWangYS/Deep-Learning-in-Python/blob/master/unsupervised_class2/autoencoder_tf.py)
 * Greed Layer  
 ## Recurrent Neural Network
-* RNN for poetry poetry generation  [:lollipop:](https://github.com/SeanWangYS/Deep-Learning-in-Python/blob/master/rnn_class/srn_language.py)
-* Word Vector training  [:lollipop:](https://github.com/SeanWangYS/Deep-Learning-in-Python/blob/master/rnn_class/wiki.py)
-* GRU  [:lollipop:](https://github.com/SeanWangYS/Deep-Learning-in-Python/blob/master/rnn_class/gru.py)
-* LSTM  [:lollipop:](https://github.com/SeanWangYS/Deep-Learning-in-Python/blob/master/rnn_class/lstm.py)
+* [RNN for poetry poetry generation](https://github.com/SeanWangYS/Deep-Learning-in-Python/blob/master/rnn_class/srn_language.py)
+* [Word Vector training](https://github.com/SeanWangYS/Deep-Learning-in-Python/blob/master/rnn_class/wiki.py)
+* [GRU](https://github.com/SeanWangYS/Deep-Learning-in-Python/blob/master/rnn_class/gru.py)
+* [LSTM](https://github.com/SeanWangYS/Deep-Learning-in-Python/blob/master/rnn_class/lstm.py)
 ## Nature Language Processing
-* LSA (latten semantic analysis)
-* TF-IDF and visualization 
-* word analogy using word vector package (Word2Vec and Glove)  
-* bigram model(using numpy indexing skill)
-* matrix factorization (for recommendation system)
-* glove algorithm training 
-* part-of-speech tagging
+* [LSA (latten semantic analysis)](https://github.com/SeanWangYS/Deep-Learning-in-Python/blob/master/nlp_class/lsa.py)
+* [TF-IDF and visualization](https://github.com/SeanWangYS/Deep-Learning-in-Python/blob/master/nlp_class2/tfidf_tsne.py)
+* Word Analogy Using Word Vector Package ([Word2Vec](https://github.com/SeanWangYS/Deep-Learning-in-Python/blob/master/nlp_class2/pretrained_w2v.py) and [Glove](https://github.com/SeanWangYS/Deep-Learning-in-Python/blob/master/nlp_class2/pretrained_glove.py))  
+* [Bigram Model(using numpy indexing skill)](https://github.com/SeanWangYS/Deep-Learning-in-Python/blob/master/nlp_class2/neural_network2_Sean.py)
+* [Glove Algorithm Implement (using matrix factorization)](https://github.com/SeanWangYS/Deep-Learning-in-Python/blob/master/nlp_class2/glove_tf.py)
+* [Part-of-Speech Tagging](https://github.com/SeanWangYS/Deep-Learning-in-Python/blob/master/nlp_class2/pos_tf.py)
+* [Named Entity Recognition (NER)](https://github.com/SeanWangYS/Deep-Learning-in-Python/blob/master/nlp_class2/ner_tf.py)
 <br>
-****
 
 
