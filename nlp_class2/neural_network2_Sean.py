@@ -25,7 +25,6 @@ Note:
 在這支code，cost 計算要放在權重更新之前就做，要不然算出來的數值會爆炸，講師說原因如下
       We do a gradient descent step after cost 
       since the calculation of doutput will overwrite predictions
-但我無法自己用實驗證明，還是覺得怪怪的????
 
 '''
 
