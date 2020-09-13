@@ -180,7 +180,7 @@ def main(we_file, w2i_file, use_brown=True ,n_files=100):
             ])
             sentences, word2idx = get_sentences_with_word2idx_limit_vocab(n_vocab=5000, keep_words=keep_words)
         else:
-            # sentences, word2idx = get_wikipedia_data(n_files=n_files, n_vocab=2000)   # 我根本就不會用到這個
+            # sentences, word2idx = get_wikipedia_data(n_files=n_files, n_vocab=2000) 
             pass
 
         with open(w2i_file, 'w') as f:
