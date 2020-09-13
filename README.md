@@ -9,8 +9,8 @@ The turorials which I studied is created by Lazy programmer team.
 # Concepts and algorithm I implemented in this project
 hit the :lollipop: below to access the code I wrote
 ## Neural Network
-* Logistic Regression [:lollipop:](https://github.com/SeanWangYS/Deep-Learning-in-Python/blob/master/ann_class/regression.py) 
-* Deep Neural Network(multiple hidden layers NN) [:lollipop:](https://github.com/SeanWangYS/Deep-Learning-in-Python/blob/master/ann_class2/tensorflow_ann_bySean.py)
+* [Logistic Regression](https://github.com/SeanWangYS/Deep-Learning-in-Python/blob/master/ann_class/regression.py) 
+* [Deep Neural Network(multiple hidden layers NN)](https://github.com/SeanWangYS/Deep-Learning-in-Python/blob/master/ann_class2/tensorflow_ann_bySean.py)
 * Momentum  [:lollipop:](https://github.com/SeanWangYS/Deep-Learning-in-Python/blob/master/ann_class2/momentum.py)
 * RMSprop  [:lollipop:](https://github.com/SeanWangYS/Deep-Learning-in-Python/blob/master/ann_class2/rmsprop.py)
 * Adam  [:lollipop:](https://github.com/SeanWangYS/Deep-Learning-in-Python/blob/master/ann_class2/adam.py)
