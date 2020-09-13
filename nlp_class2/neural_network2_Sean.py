@@ -29,7 +29,7 @@ Note:
 '''
 
 sentences, word2idx = get_sentences_with_word2idx_limit_vocab(2000)
-# idx2word = [ word2idx[i] for i in range(len(word2idx))]  # 這裡會Error
+# idx2word = [ word2idx[i] for i in range(len(word2idx))]  
 
 
 V = len(word2idx)
@@ -82,7 +82,7 @@ for epoch in range(epochs):
 
         # do a gradient descent step=============================================================
         # (pY - Y) 的簡化
-        doutput = pY     # N x V           # 會跟doutput指到同一個記憶體位置?????pY的值之後會被改掉?????
+        doutput = pY     # N x V           
         doutput[np.arange(n), target_sent] -= 1   #  取代 (pY - Y)， 原本的Y 是 one-hot encoding
         W2 = W2 - learning_rate*Z.T.dot(doutput)      # (D x N) (N x V)
         dhidden = doutput.dot(W2.T) * (1 - Z*Z)       # (N x V) (V x D) * (N x D)
